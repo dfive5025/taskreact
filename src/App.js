@@ -61,19 +61,22 @@ function App() {
       {/* <ParentComponent /> */}
       {/*------------------demo HTML-------------------*/}
       <Xinchao name="dattt" />
+
       {/*-------------------demo clock mount, unmount------------------------*/}
       {/* <Clock></Clock> */}
+
       {/*-------------------demo redux và redux kết hợp props-------*/}
       {/* <h1>{store.getState().count}</h1> */}
       {/* <h1>{props.count}</h1>  */}
       {/* <button onClick={handleIncrease}>INCREASE</button>
       <p></p>
       <button onClick={handleDecrease}>DECREASE</button> */}
+
       {/*-------------------demo 2 page redux-------*/}
       <Page1 />
       <Page2 />
 
-      {/*-------------------demo 2 refs-------*/}
+      {/*-------------------demo refs-------*/}
       {/* <Thamchieu /> */}
     </div>
   );
@@ -94,3 +97,4 @@ export default App;
 // kết nối App component với Redux store thông qua hàm connect(mapStatetoProps).
 // Khi state trong store thay đổi (do các action được dispatch),
 // mapStateToProps sẽ được gọi lại và props mới sẽ được truyền vào App component.
+//this is my edit
