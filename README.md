@@ -1,4 +1,7 @@
+DESCRIPTIONS
 #Demo state, props
+
+#Implement a login function using useState, useEffect, and validation with regex for the fields.
 
 #Demo class component (Clock.js) and functional component
 
