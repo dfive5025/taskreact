@@ -1,5 +1,7 @@
 ## DESCRIPTIONS
 
+# Implement examples in tasks
+
 #Demo state, props (/car.js, src/stateTest, /Clock.js, src/index.js, src/App.js)
 
 #Implement a login function using useState, useEffect, and validation with regex for the fields. (/src/loginpage)
