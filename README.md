@@ -1,3 +1,13 @@
+#Demo state, props
+
+#Demo class component (Clock.js) and functional component
+
+#Demo redux
+
+#Demo HTML
+
+#Implement a login function using useState, useEffect, and validation with regex for the fields.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
