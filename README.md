@@ -1,16 +1,16 @@
 ## DESCRIPTIONS
 
-#Demo state, props (/car.js, /stateTest, /Clock.js, /index.js, /App.js)
+#Demo state, props (/car.js, src/stateTest, /Clock.js, src/index.js, src/App.js)
 
 #Implement a login function using useState, useEffect, and validation with regex for the fields. (/src/loginpage)
 
 #Demo class component (Clock.js) and functional component and component life cycle
 
-#Demo redux
+#Demo redux (/src/redux2page)
 
-#Demo HTML
+#Demo HTML (/src/loginpage)
 
-#Implement a login function using useState, useEffect, and validation with regex for the fields.
+#Implement a login function using useState, useEffect, and validation with regex for the fields. (/src/loginpage)
 
 # Getting Started with Create React App
 
