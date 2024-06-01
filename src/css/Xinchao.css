@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.product{
+    padding: 0px;
+}
+.product-item{
+    padding: 10px;
+}
+.scoll-container{
+    text-align: left;
+}
+.login-ok{
+    padding: 30px;
+}
+.flex-container {
+    display: flex;
+    
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .flex-item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid #ccc;
+  }
+  .btn_login{
+    background-color: red;
+    margin-top: 5px;
+  }

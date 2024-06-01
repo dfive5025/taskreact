@@ -1,0 +1,30 @@
+.horizontal-scroll {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 20px 0;
+}
+
+.horizontal-scroll-list {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.horizontal-scroll-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.horizontal-scroll-item img {
+  width: 150px;
+  height: auto;
+}
+
+.inline-block-example {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: lightblue;
+}
